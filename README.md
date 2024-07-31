@@ -3,7 +3,7 @@
 **Link to Tableau Public:** https://public.tableau.com/views/AmazonSalesDashboard_17218100361400/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 **Key features**
-* Interactive filters for date range, region, and product category
+* Interactive filters
 * Comparative analysis of sales performance
 * Drill-down capabilities for detailed exploration
 
